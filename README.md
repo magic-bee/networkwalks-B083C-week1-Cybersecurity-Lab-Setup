@@ -57,26 +57,7 @@ Additional target machines can be added to the same virtual network in future pr
 
 ---
 
-## ⚙️ Lab Configuration
-
-| 🧩 Component       | ⚙️ Configuration   |
-| ------------------ | ------------------  |
-| 🖥️ Host OS         | Windows 11         |
-| 🧠 Host RAM        | 16 GB               |
-| ⚡ Processor       | Intel Core i5      |
-| 🧰 Hypervisor      | VirtualBox 7.2  |
-| 🐉 Security OS     | Kali Linux 2026.2  |
-| 🧠 Kali RAM        | 2048 MB            |
-| 🌐 Virtual Network | NAT Network        |
-| 📡 Network Address | 10.0.0.0/24        |
-| 🐧 Kali IP Address | 10.0.0.2/24        |
-| 🚪 Default Gateway | 10.0.0.1           |
-| 🌍 DNS Server      | 8.8.8.8            |
-| 🔮 Future VM Range | 10.0.0.3–10.0.0.99 |
-
----
-
-# 🪜 Lab Setup Procedure
+#  Lab Setup
 
 ## Step 1. Install 7-Zip
 
@@ -208,7 +189,7 @@ After configuring the network instead of 10.0.0.2 it showed 10.0.0.3 so I restar
 ----
 
 
-# 🔗 Tools & Resources
+#  Tools & Resources
 
 - **7-Zip:** [https://7-zip.org/download.html](https://7-zip.org/download.html)
 - **VirtualBox:** [https://virtualbox.org/wiki/Downloads](https://virtualbox.org/wiki/Downloads)
@@ -216,15 +197,9 @@ After configuring the network instead of 10.0.0.2 it showed 10.0.0.3 so I restar
 
 ---
 
-# 👤 Author
+#  Author
 
 **Halima**
 Internee BatchB083C
 
 LinkedIn: [https://www.linkedin.com/in/halima-j-78643a373/](https://www.linkedin.com/in/halima-j-78643a373/)
-
----
-
-## 📌 Project Information
-
-**Program Name:** Cybersecurity at Networkwalks | **Week:** 01 | **Project:** Cybersecurity & Pentesting Lab Setup | **Repository:** GitHub
