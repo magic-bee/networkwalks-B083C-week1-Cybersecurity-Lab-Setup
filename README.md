@@ -3,8 +3,8 @@ Cybersecurity lab setup
 <div align="center">
 
 
-**
-first steps of creating a virtual lab for pen testing and ethical hacking**
+**first steps of creating a virtual lab for pen testing and ethical hacking**
+
 </div>
 
 ##  Project Overview
